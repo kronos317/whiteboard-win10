@@ -20,3 +20,29 @@ https://www.howtogeek.com/285410/how-to-install-.appx-or-.appxbundle-software-on
 
 Thank you,
 Yurii.
+
+========================================================
+
+## 2020-12-07
+
+### WebRTC Servers
+
+=== 1. Janus WebRTC Server - C, C++, Javascript
+
+[Github Link](https://github.com/meetecho/janus-gateway)
+[Demo Link](https://janus.conf.meetecho.com/demos.html)
+[Official Website & API Documentation](https://janus.conf.meetecho.com/index.html)
+
+
+=== 2. MediaSoup - Node, C++, Typescript
+
+[Github Link](https://github.com/versatica/mediasoup/)
+[Demo Link](https://v3demo.mediasoup.org/?roomId=nypc9l8j)
+[Official Website & API Documentation](https://mediasoup.org/)
+
+
+=== 3. Jitsi - Java, Javascript
+
+[Github Link](https://github.com/jitsi/jitsi)
+[Demo Link](https://meet.jit.si/)
+[Official Website & API Documentation](https://jitsi.org/)
