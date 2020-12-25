@@ -53,3 +53,7 @@ Yurii.
 ## 2020-12-24
 
 [owt-webrtc-packed](https://www.dropbox.com/sh/v5epsydyb17fc6w/AACpK1vYxS69zt-xV0RTjRcta?dl=0) Please confirm.
+
+## 2020-12-25
+
+Same link, with updated contents.
