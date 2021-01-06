@@ -52,8 +52,14 @@ Yurii.
 
 ## 2020-12-24
 
-[owt-webrtc-packed](https://www.dropbox.com/sh/v5epsydyb17fc6w/AACpK1vYxS69zt-xV0RTjRcta?dl=0) Please confirm.
+Link removed
 
 ## 2020-12-25
 
 Same link, with updated contents.
+
+=========================================================
+
+## 2021-01-06
+
+For RabbitMQ Offline Module, please check sub-folder named [2021-01-05](./2021-01-05)
