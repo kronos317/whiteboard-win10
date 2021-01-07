@@ -134,4 +134,9 @@ heartbeat = 580
 
 `http://localhost:15672`
 
+```
+username: admin
+password: password
+```
+
 For further information, please check [this](https://gist.github.com/fernandoaleman/fe34e83781f222dfd8533b36a52dddcc)
