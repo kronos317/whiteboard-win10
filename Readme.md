@@ -63,3 +63,19 @@ Same link, with updated contents.
 ## 2021-01-06
 
 For RabbitMQ Offline Module, please check sub-folder named [2021-01-05](./2021-01-05)
+
+=========================================================
+
+## 2021-02-03
+
+ - To merge the splitted files
+ 
+ ```
+ #cat facebook-split-?? > facebook.zip
+ ```
+ 
+  - To split again (if needed)
+  
+  ```
+  #split -b 50M facebook.zip facebook-split-
+  ```
